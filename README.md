@@ -21,6 +21,7 @@ a library to handle user sing-in, identity etc. in an app
   - or - use it's modules as library (`reitit` is exactly an example of how)
 - a *library*:
   - it should be like `ory` but a library instead, like `reitit`, with http adapters of choice
+- <ins>can we extend `reitit`? identity middleware/interceptors?</ins> that would be awesome
 
 ## already out there
 
