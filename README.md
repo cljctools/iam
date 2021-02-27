@@ -13,3 +13,7 @@ a library to handle user sing-in, identity etc. in an app
 - ui included: just like with `reitit` that comes with (or generates) swagger ui, identity lib should come with ui
   - https://github.com/metosin/reitit/blob/0.5.12/modules/reitit-swagger-ui/project.clj#L14
   - https://github.com/metosin/ring-swagger-ui
+
+## already out there
+
+- https://github.com/ory
