@@ -1,6 +1,8 @@
 # iam
 a library to handle user sing-in, identity etc. in an app
 
+[**ARCHIVED**](https://github.com/cljctools/iam/issues/2): use soltution by https://github.com/ory 
+
 ## rationale
 
 - stemming from 
