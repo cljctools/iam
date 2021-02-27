@@ -16,7 +16,11 @@ a library to handle user sing-in, identity etc. in an app
 - no providers, use self hosted iam + decentralized identity:
   - "login with" requires app registration, when we want decentralized apps that run from code
   - what ory does is a lot more, we need self hosted iam and use DIDs
-- just an embedded process: like we start jetty or aleph, iam should be just a process we start on host port, or - use it's modules as library (`reitit` is exactly an example of how)
+- just an embedded process: 
+  - like we start jetty or aleph, iam should be just a process we start on host port
+  - or - use it's modules as library (`reitit` is exactly an example of how)
+- a *library*:
+  - it should be like `ory` but a library instead, like `reitit`, with http adapters of choice
 
 ## already out there
 
