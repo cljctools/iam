@@ -2,7 +2,7 @@
 a library to handle user sing-in, identity etc. in an app (using DIDs)
 
 <a href="https://github.com/DeathStarGame/DeathStarGame/issues/41#issuecomment-787430993">
-<img width="512px" src="./docs/geoff.jpg"></img></a>
+<img title="Top Gear 14x02, building Geoff" width="512px" src="./docs/geoff.jpg"></img></a>
 
 ## rationale
 
