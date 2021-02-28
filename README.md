@@ -1,12 +1,13 @@
 # iam
 a library to handle user sing-in, identity etc. in an app (using DIDs)
 
-<a href="https://github.com/DeathStarGame/DeathStarGame/issues/41#issuecomment-787430993">
-<img width="512px" src="./docs/geoff.jpg"></img></a>
+<img width="512px" src="./docs/geoff.jpg"></img>
 
 *Top Gear 14x02, building Geoff*
 
 ## rationale
+
+> note: start with *plain data* https://github.com/DeathStarGame/DeathStarGame/issues/41#issuecomment-787430993
 
 - stemming from 
   - https://github.com/DeathStarGame/DeathStarGame/issues/41#issuecomment-787013446
