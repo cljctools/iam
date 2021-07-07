@@ -1,6 +1,8 @@
 # iam
 a library to handle user sing-in, identity etc. in an app (using DIDs)
 
+[merged into https://github.com/cljctools/cljctools]
+
 ## rationale
 
 - reusable: when building our app, we want everything-identity to be a reusalbe 'plugin'/layer/lib
