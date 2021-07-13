@@ -14,7 +14,7 @@ rationale
   - https://github.com/metosin/ring-swagger-ui
 - no providers, use self hosted iam + decentralized identity:
   - "login with" requires app registration, when we want decentralized apps that run from code
-  - what ory does is a lot more, we need self hosted iam and **use DIDs**
+  - what ory does is a lot more, we need self hosted iam and use DIDs
 - just an embedded process: 
   - like we start jetty or aleph, iam should be just a process we start on host port
   - or - use it's modules as library (reitit is exactly an example of how)
