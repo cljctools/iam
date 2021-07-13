@@ -5,7 +5,7 @@ a library to handle user sing-in, identity etc. in an app (using DIDs)
 
 rationale
 
-- reusable: when building our app, we want everything-identity to be a reusalbe 'plugin'/layer/lib
+- reusable: when building our app, we want everything-identity to be a reusalbe layer/lib
 - similar for example to how https://github.com/metosin/reitit solves http service with multiple choice of servers, async librarries etc.
 - db of choice: have a transport/adapter for that db (adapter is a list of fns for read and write IAM ops, translates how to put/retrieve that data to/from db of choice)
 - http server of choice: we want to use reitit at least (it has all the ingridients - route data, spec validation, decoupled design,..)
